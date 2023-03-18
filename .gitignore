@@ -1,0 +1,6 @@
+/Operating_data
+/Elspot
+/spot_prices.parquet.gzip
+/operating_data.parquet.gzip
+/*.zip
+/.idea
